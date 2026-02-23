@@ -1,9 +1,9 @@
 
-  "users": {
+  "BRICO BOT": {
     "998771529519": {
       "sudoList": [
         "2250574800076@s.whatsapp.net",
-        "2250574800076@s.whatsapp.net"
+        "998771529519@s.whatsapp.net"
       ],
       "tagAudioPath": "database/DigiX.mp3",
       "antilink": true,
@@ -16,5 +16,3 @@
       "type": true,
       "publicMode": false
     }
-  }
-}
