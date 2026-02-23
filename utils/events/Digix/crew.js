@@ -14,7 +14,7 @@ async function getUserNumber() {
             output: process.stdout,
         });
 
-        rl.question('📲 Enter your WhatsApp number (with country code, e.g., 2250574800076): ', (number) => {
+        rl.question('📲 Enter your WhatsApp number (with country code, e.g., 225xxxx): ', (number) => {
             rl.close();
             resolve(number.trim());
         });
